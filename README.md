@@ -1,2 +1,2 @@
-#Desafio de projeto Bootcamp Impulso/DIO
+#Desafio de projeto Bootcamp DIO
 1º Desafio - Modulo I
